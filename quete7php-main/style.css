@@ -1,0 +1,24 @@
+.clef0,.clef1,.clef2,.clef3{
+   color: blue;
+   transform: translate(550px, -700px );
+   width: 30px;
+}
+.clef4,.clef5,.clef6,.clef7{
+   color: rebeccapurple;
+   transform: translate(200px, -100px );
+   width: 30px;
+}
+.clef8,.clef9,.clef10,.clef11{
+   color: red;
+   transform: translate(900px, -600px );
+   width: 30px;
+}
+.clef12,.clef13,.clef14,.clef15{
+   color: yellow;
+   transform: translate(50px, -600px );
+   width: 30px;
+}
+
+footer{
+   text-align: center;
+}
